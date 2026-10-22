@@ -4,6 +4,8 @@
 
 ![界面预览](preview_v17.png)
 
+![界面预览](preview_v14_settings.png)
+
 ---
 
 ## 一、前置条件（必读）
